@@ -12,6 +12,12 @@ A production-ready command-line interface tool that fetches and displays a user'
 - **Error Handling**: Graceful handling of API errors, rate limits, and network issues
 - **Authentication Support**: Uses GitHub tokens for higher rate limits
 
+
+### Direct Usage with npx after installation
+
+```bash
+npx github-activity <username>
+```
 ## 📦 Installation
 
 ### Local Installation
@@ -28,11 +34,7 @@ npm install
 npm link
 ```
 
-### Direct Usage with npx
 
-```bash
-npx github-activity <username>
-```
 
 ## 🔧 Setup
 

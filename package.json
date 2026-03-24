@@ -1,5 +1,5 @@
 {
-  "name": "github-activity-cli",
+  "name": "github-activity-tracker-cli",
   "version": "1.0.0",
   "description": "CLI tool to track GitHub user activity",
   "main": "github-activity.js",
