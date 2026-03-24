@@ -1,0 +1,18 @@
+{
+  "name": "github-activity-cli",
+  "version": "1.0.0",
+  "description": "CLI tool to track GitHub user activity",
+  "main": "github-activity.js",
+  "bin": {
+    "github-commits": "./github-commits.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["github", "cli", "activity"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0"
+  }
+}
