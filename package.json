@@ -1,6 +1,6 @@
 {
   "name": "github-activity-tracker-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "CLI tool to track GitHub user activity",
   "main": "github-activity.js",
   "bin": {
